@@ -92,33 +92,37 @@ namespace CountryFlags
 
     private void buttonSubmitAnswer_Click (object sender, EventArgs e)
     {
-      bool correct = false;
-      switch (Solution)
+      if (SelectedAnswer != 0) // don't evaluate if no answer selected
       {
-      case 0:
-        if (SelectedAnswer == 1)
-          correct = true;
-        break;
-      case 1:
-        if (SelectedAnswer == 2)
-          correct = true;
-        break;
-      case 2:
-        if (SelectedAnswer == 3)
-          correct = true;
-        break;
-      case 3:
-        if (SelectedAnswer == 4)
-          correct = true;
-        break;
-      default:
-        break;
+        bool correct = false;
+        switch (Solution)
+        {
+        case 0:
+          if (SelectedAnswer == 1)
+            correct = true;
+          break;
+        case 1:
+          if (SelectedAnswer == 2)
+            correct = true;
+          break;
+        case 2:
+          if (SelectedAnswer == 3)
+            correct = true;
+          break;
+        case 3:
+          if (SelectedAnswer == 4)
+            correct = true;
+          break;
+        default:
+          break;
+        }
+        if (correct)
+          quizImage.Image = Image.FromFile("Correct.png");
+        else
+          quizImage.Image = Image.FromFile("Wrong.png");
+        buttonSubmitAnswer.Enabled = false;
+        SelectedAnswer = 0;
       }
-      if (correct)
-        quizImage.Image = Image.FromFile("Correct.png");
-      else
-        quizImage.Image = Image.FromFile("Wrong.png");
-      buttonSubmitAnswer.Enabled = false;
     }
   }
 }
