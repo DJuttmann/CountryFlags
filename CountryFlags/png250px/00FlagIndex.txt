@@ -1,0 +1,254 @@
+Andorra	ad.png	AD
+United Arab Emirates	ae.png	AE
+Afghanistan	af.png	AF
+Antigua and Barbuda	ag.png	AG
+Anguilla	ai.png	AI
+Albania	al.png	AL
+Armenia	am.png	AM
+Netherlands Antilles	an.png	AN
+Angola	ao.png	AO
+Antarctica	aq.png	AQ
+Argentina	ar.png	AR
+American Samoa	as.png	AS
+Austria	at.png	AT
+Australia	au.png	AU
+Aruba	aw.png	AW
+Aland Islands	ax.png	AX
+Azerbaijan	az.png	AZ
+Bosnia and Herzegovina	ba.png	BA
+Barbados	bb.png	BB
+Bangladesh	bd.png	BD
+Belgium	be.png	BE
+Burkina Faso	bf.png	BF
+Bulgaria	bg.png	BG
+Bahrain	bh.png	BH
+Burundi	bi.png	BI
+Benin	bj.png	BJ
+Saint-Barthélemy	bl.png	BL
+Bermuda	bm.png	BM
+Brunei Darussalam	bn.png	BN
+Bolivia	bo.png	BO
+Brazil	br.png	BR
+Bahamas	bs.png	BS
+Bhutan	bt.png	BT
+Bouvet Island	bv.png	BV
+Botswana	bw.png	BW
+Belarus	by.png	BY
+Belize	bz.png	BZ
+Canada	ca.png	CA
+Cocos (Keeling) Islands	cc.png	CC
+Congo, (Kinshasa)	cd.png	CD
+Central African Republic	cf.png	CF
+Congo (Brazzaville)	cg.png	CG
+Switzerland	ch.png	CH
+Côte d'Ivoire	ci.png	CI
+Cook Islands	ck.png	CK
+Chile	cl.png	CL
+Cameroon	cm.png	CM
+China	cn.png	CN
+Colombia	co.png	CO
+Costa Rica	cr.png	CR
+Cuba	cu.png	CU
+Cape Verde	cv.png	CV
+Curaçao	cw.png	CW
+Christmas Island	cx.png	CX
+Cyprus	cy.png	CY
+Czech Republic	cz.png	CZ
+Germany	de.png	DE
+Djibouti	dj.png	DJ
+Denmark	dk.png	DK
+Dominica	dm.png	DM
+Dominican Republic	do.png	DO
+Algeria	dz.png	DZ
+Ecuador	ec.png	EC
+Estonia	ee.png	EE
+Egypt	eg.png	EG
+Western Sahara	eh.png	EH
+Eritrea	er.png	ER
+Spain	es.png	ES
+Ethiopia	et.png	ET
+Finland	fi.png	FI
+Fiji	fj.png	FJ
+Falkland Islands (Malvinas)	fk.png	FK
+Micronesia, Federated States of	fm.png	FM
+Faroe Islands	fo.png	FO
+France	fr.png	FR
+Gabon	ga.png	GA
+England	gb-eng.png	GB-ENG
+Northern Ireland	gb-nir.png	GB-NIR
+Scotland	gb-sct.png	GB-SCT
+Wales	gb-wls.png	GB-WLS
+United Kingdom	gb.png	GB
+Grenada	gd.png	GD
+Georgia	ge.png	GE
+French Guiana	gf.png	GF
+Guernsey	gg.png	GG
+Ghana	gh.png	GH
+Gibraltar	gi.png	GI
+Greenland	gl.png	GL
+Gambia	gm.png	GM
+Guinea	gn.png	GN
+Guadeloupe	gp.png	GP
+Equatorial Guinea	gq.png	GQ
+Greece	gr.png	GR
+South Georgia and the South Sandwich Islands	gs.png	GS
+Guatemala	gt.png	GT
+Guam	gu.png	GU
+Guinea-Bissau	gw.png	GW
+Guyana	gy.png	GY
+Hong Kong, SAR China	hk.png	HK
+Heard and Mcdonald Islands	hm.png	HM
+Honduras	hn.png	HN
+Croatia	hr.png	HR
+Haiti	ht.png	HT
+Hungary	hu.png	HU
+Indonesia	id.png	ID
+Ireland	ie.png	IE
+Israel	il.png	IL
+Isle of Man	im.png	IM
+India	in.png	IN
+British Indian Ocean Territory	io.png	IO
+Iraq	iq.png	IQ
+Iran, Islamic Republic of	ir.png	IR
+Iceland	is.png	IS
+Italy	it.png	IT
+Jersey	je.png	JE
+Jamaica	jm.png	JM
+Jordan	jo.png	JO
+Japan	jp.png	JP
+Kenya	ke.png	KE
+Kyrgyzstan	kg.png	KG
+Cambodia	kh.png	KH
+Kiribati	ki.png	KI
+Comoros	km.png	KM
+Saint Kitts and Nevis	kn.png	KN
+	kosovo.png	
+Korea (North)	kp.png	KP
+Korea (South)	kr.png	KR
+Kuwait	kw.png	KW
+Cayman Islands	ky.png	KY
+Kazakhstan	kz.png	KZ
+Lao PDR	la.png	LA
+Lebanon	lb.png	LB
+Saint Lucia	lc.png	LC
+Liechtenstein	li.png	LI
+Sri Lanka	lk.png	LK
+Liberia	lr.png	LR
+Lesotho	ls.png	LS
+Lithuania	lt.png	LT
+Luxembourg	lu.png	LU
+Latvia	lv.png	LV
+Libya	ly.png	LY
+Morocco	ma.png	MA
+Monaco	mc.png	MC
+Moldova	md.png	MD
+Montenegro	me.png	ME
+Saint-Martin (French part)	mf.png	MF
+Madagascar	mg.png	MG
+Marshall Islands	mh.png	MH
+Macedonia, Republic of	mk.png	MK
+Mali	ml.png	ML
+Myanmar	mm.png	MM
+Mongolia	mn.png	MN
+Macao, SAR China	mo.png	MO
+Northern Mariana Islands	mp.png	MP
+Martinique	mq.png	MQ
+Mauritania	mr.png	MR
+Montserrat	ms.png	MS
+Malta	mt.png	MT
+Mauritius	mu.png	MU
+Maldives	mv.png	MV
+Malawi	mw.png	MW
+Mexico	mx.png	MX
+Malaysia	my.png	MY
+Mozambique	mz.png	MZ
+Namibia	na.png	NA
+New Caledonia	nc.png	NC
+Niger	ne.png	NE
+Norfolk Island	nf.png	NF
+Nigeria	ng.png	NG
+Nicaragua	ni.png	NI
+Netherlands	nl.png	NL
+Norway	no.png	NO
+Nepal	np.png	NP
+Nauru	nr.png	NR
+Niue	nu.png	NU
+New Zealand	nz.png	NZ
+Oman	om.png	OM
+Panama	pa.png	PA
+Peru	pe.png	PE
+French Polynesia	pf.png	PF
+Papua New Guinea	pg.png	PG
+Philippines	ph.png	PH
+Pakistan	pk.png	PK
+Poland	pl.png	PL
+Saint Pierre and Miquelon	pm.png	PM
+Pitcairn	pn.png	PN
+Puerto Rico	pr.png	PR
+Palestinian Territory	ps.png	PS
+Portugal	pt.png	PT
+Palau	pw.png	PW
+Paraguay	py.png	PY
+Qatar	qa.png	QA
+Réunion	re.png	RE
+Romania	ro.png	RO
+Serbia	rs.png	RS
+Russian Federation	ru.png	RU
+Rwanda	rw.png	RW
+Saudi Arabia	sa.png	SA
+Solomon Islands	sb.png	SB
+Seychelles	sc.png	SC
+Sudan	sd.png	SD
+Sweden	se.png	SE
+Singapore	sg.png	SG
+Saint Helena	sh.png	SH
+Slovenia	si.png	SI
+Svalbard and Jan Mayen Islands	sj.png	SJ
+Slovakia	sk.png	SK
+Sierra Leone	sl.png	SL
+San Marino	sm.png	SM
+Senegal	sn.png	SN
+Somalia	so.png	SO
+Suriname	sr.png	SR
+South Sudan	ss.png	SS
+Sao Tome and Principe	st.png	ST
+El Salvador	sv.png	SV
+Sint Maarten	sx.png	SX
+Syrian Arab Republic (Syria)	sy.png	SY
+Swaziland	sz.png	SZ
+Turks and Caicos Islands	tc.png	TC
+Chad	td.png	TD
+French Southern Territories	tf.png	TF
+Togo	tg.png	TG
+Thailand	th.png	TH
+Tajikistan	tj.png	TJ
+Tokelau	tk.png	TK
+Timor-Leste	tl.png	TL
+Turkmenistan	tm.png	TM
+Tunisia	tn.png	TN
+Tonga	to.png	TO
+Turkey	tr.png	TR
+Trinidad and Tobago	tt.png	TT
+Tuvalu	tv.png	TV
+Taiwan, Republic of China	tw.png	TW
+Tanzania, United Republic of	tz.png	TZ
+Ukraine	ua.png	UA
+Uganda	ug.png	UG
+US Minor Outlying Islands	um.png	UM
+United States of America	us.png	US
+Uruguay	uy.png	UY
+Uzbekistan	uz.png	UZ
+Holy See (Vatican City State)	va.png	VA
+Saint Vincent and Grenadines	vc.png	VC
+Venezuela (Bolivarian Republic)	ve.png	VE
+British Virgin Islands	vg.png	VG
+Virgin Islands, US	vi.png	VI
+Viet Nam	vn.png	VN
+Vanuatu	vu.png	VU
+Wallis and Futuna Islands	wf.png	WF
+Samoa	ws.png	WS
+Yemen	ye.png	YE
+Mayotte	yt.png	YT
+South Africa	za.png	ZA
+Zambia	zm.png	ZM
+Zimbabwe	zw.png	ZW
