@@ -122,7 +122,6 @@ Cambodia	kh.png	KH
 Kiribati	ki.png	KI
 Comoros	km.png	KM
 Saint Kitts and Nevis	kn.png	KN
-	kosovo.png	
 Korea (North)	kp.png	KP
 Korea (South)	kr.png	KR
 Kuwait	kw.png	KW
