@@ -38,6 +38,7 @@ namespace CountryFlags
       }
     }
 
+
     // Update the flag image if user selects different country.
     private void countrySelect_SelectedIndexChanged (object sender, EventArgs e)
     {

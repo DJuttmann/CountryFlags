@@ -136,6 +136,7 @@
       this.quizImage.Location = new System.Drawing.Point(227, 64);
       this.quizImage.Name = "quizImage";
       this.quizImage.Size = new System.Drawing.Size(380, 242);
+      this.quizImage.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
       this.quizImage.TabIndex = 0;
       this.quizImage.TabStop = false;
       // 
@@ -186,6 +187,7 @@
       this.flagImage.Location = new System.Drawing.Point(323, 6);
       this.flagImage.Name = "flagImage";
       this.flagImage.Size = new System.Drawing.Size(517, 272);
+      this.flagImage.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
       this.flagImage.TabIndex = 0;
       this.flagImage.TabStop = false;
       // 

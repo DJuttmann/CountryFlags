@@ -1,4 +1,10 @@
-﻿
+﻿//========================================================================================
+// FlagExplorer by Daan Juttmann
+// Created: 2017-11-02
+// License: GNU General Public License 3.0 (https://www.gnu.org/licenses/gpl-3.0.en.html).
+// Flag images taken from https://github.com/hjnilsson/country-flags and Wikipedia
+// They are in the public domain.
+//========================================================================================
 
 
 using System;
@@ -16,6 +22,9 @@ namespace CountryFlags
   {
     public static Random Generator = new Random ();
 
+    // METHODS
+
+    // Returns four different random values from the interval [0, max).
     public static int [] FourValues (int max) {
       int [] values = new int [4];
       for (int i = 0; i < 4; i++)
@@ -35,20 +44,23 @@ namespace CountryFlags
       return values;
     }
   }
+
+
   
   class Country
   {
-    private string name;
+    private string name; // Name of the country
     public string Name {get {return name;}}
 
     private string code; // Two letter code
     public string Code {get {return code;}}
 
-    private string flag;
+    private string flag; // file name of the country flag image
     public string Flag {get {return flag;}}
 
     // METHODS
 
+    // Constructor
     public Country (string name, string flag, string code)
     {
       this.name = name;
