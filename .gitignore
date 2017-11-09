@@ -261,4 +261,4 @@ __pycache__/
 *.pyc
 /CountryFlags/bin/Debug/Correct-Wrong.svg
 /CountryFlags/bin/Debug/CountryFlags.exe.config
-/CountryFlags/bin/Debug/CountryFlags.exe
+# /CountryFlags/bin/Debug/CountryFlags.exe
