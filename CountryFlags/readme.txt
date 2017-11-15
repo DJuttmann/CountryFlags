@@ -7,11 +7,13 @@ They are in the public domain.
 ==========================================================================================
 
 -- INSTALLATION --
-When downloading the repository, make sure that when building, the executable is placed in
-the "bin/Debug/" folder. The settings.txt file contains the path to flag image folder 
-(first line), and the name of the flag index file (second line). The flag index file
-lists on every line the country name, its flag image file name, and the country code,
-separated with tabs. You can use this format to create custom collections of flags.
+Download the latest release version and extract the files from the archive file into any 
+folder; the program can be started directly from that location. The settings.txt file
+contains the path to the flag image folder (first line), and the name of the flag index 
+text file (second line). The flag index file lists on each line a country name, its flag
+image file name, and the country code, separated with tabs. You can use this format to
+create custom collections of flags.
+
 
 -- FEATURES --
 Explorer: Select a country to view its flag.
