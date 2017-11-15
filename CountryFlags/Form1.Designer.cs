@@ -51,6 +51,7 @@
       // 
       // tabPage2
       // 
+      this.tabPage2.BackColor = System.Drawing.Color.Gainsboro;
       this.tabPage2.Controls.Add(this.buttonSubmitAnswer);
       this.tabPage2.Controls.Add(this.radioButton4);
       this.tabPage2.Controls.Add(this.radioButton3);
@@ -64,7 +65,6 @@
       this.tabPage2.Size = new System.Drawing.Size(846, 487);
       this.tabPage2.TabIndex = 1;
       this.tabPage2.Text = "Quiz";
-      this.tabPage2.UseVisualStyleBackColor = true;
       // 
       // buttonSubmitAnswer
       // 
@@ -142,6 +142,7 @@
       // 
       // tabPage1
       // 
+      this.tabPage1.BackColor = System.Drawing.Color.Gainsboro;
       this.tabPage1.Controls.Add(this.countryCode);
       this.tabPage1.Controls.Add(this.labelSelectCountry);
       this.tabPage1.Controls.Add(this.countrySelect);
@@ -152,7 +153,6 @@
       this.tabPage1.Size = new System.Drawing.Size(846, 487);
       this.tabPage1.TabIndex = 0;
       this.tabPage1.Text = "Browse";
-      this.tabPage1.UseVisualStyleBackColor = true;
       // 
       // countryCode
       // 

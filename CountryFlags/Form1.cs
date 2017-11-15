@@ -78,6 +78,10 @@ namespace CountryFlags
     {
       int [] options;
       options = RandomGenerator.FourValues (countryExplorer.GetNumberOfCountries ());
+      radioButton1.BackColor = Color.Transparent;
+      radioButton2.BackColor = Color.Transparent;
+      radioButton3.BackColor = Color.Transparent;
+      radioButton4.BackColor = Color.Transparent;
       radioButton1.Text = countryExplorer.GetCountryName (options [0]);
       radioButton2.Text = countryExplorer.GetCountryName (options [1]);
       radioButton3.Text = countryExplorer.GetCountryName (options [2]);
@@ -99,18 +103,22 @@ namespace CountryFlags
         switch (Solution)
         {
         case 0:
+          radioButton1.BackColor = Color.Chartreuse;
           if (SelectedAnswer == 1)
             correct = true;
           break;
         case 1:
+          radioButton2.BackColor = Color.Chartreuse;
           if (SelectedAnswer == 2)
             correct = true;
           break;
         case 2:
+          radioButton3.BackColor = Color.Chartreuse;
           if (SelectedAnswer == 3)
             correct = true;
           break;
         case 3:
+          radioButton4.BackColor = Color.Chartreuse;
           if (SelectedAnswer == 4)
             correct = true;
           break;
